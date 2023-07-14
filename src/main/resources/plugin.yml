@@ -1,0 +1,4 @@
+name: WelcomeMessenger
+version: '${version}'
+main: me.supradev.welcomemessenger.WelcomeMessenger
+api-version: '1.20'
